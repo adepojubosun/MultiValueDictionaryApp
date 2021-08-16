@@ -21,3 +21,7 @@ The Multi-Value Dictionary app is a command line application that stores a multi
 > execute `dotnet restore` to install dependencies\
 > execute `dotnet build` to build project\
 > execute `dotnet run` in the MultiValueDictionaryApp directory.
+
+### ***Documentation***
+
+[a relative link](DOCUMENTATION.md)
