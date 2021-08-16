@@ -24,4 +24,4 @@ The Multi-Value Dictionary app is a command line application that stores a multi
 
 ### ***Documentation***
 
-[a relative link](DOCUMENTATION.md)
+[link to app documentation](DOCUMENTATION.md)
