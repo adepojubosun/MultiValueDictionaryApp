@@ -3,7 +3,7 @@ The Multi-Value Dictionary app is a command line application that stores a multi
 
 ### **Requirements**
 
-> .Net Core Framework 3.0 or over Required
+> .Net Core Framework 3.0 or over Required\
 > .Net Core CLI
 > 
 
